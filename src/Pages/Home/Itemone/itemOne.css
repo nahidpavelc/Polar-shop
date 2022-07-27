@@ -1,0 +1,44 @@
+.item_one_Title {
+  color: #363958;
+  font-family: "Bebas Neue";
+  font-size: 48px;
+  text-align: center;
+  padding: 4%;
+}
+.item_one_card {
+  --bs-card-border-width: none;
+}
+.item_one_img {
+  padding: 30px 30px;
+  background: #f1f1f1;
+  border-radius: 20px;
+  object-fit: cover;
+  object-position: 50% 50%;
+}
+.i_one_title {
+  font-size: 24px;
+  font-family: "Bebas Neue";
+  font-weight: bold;
+  color: #363958;
+}
+.card_pay {
+  color: #fabe4c;
+  font-family: 'Bebas Neue';
+  font-size: 36px;
+  font-weight: 900px;
+}
+.card_shadow {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 25px;
+  padding-top: 18px;
+  padding: 18px 18px;
+}
+.card_shadow:hover {
+    box-shadow: 0 0 11px rgba(33,33,33,.2); 
+}
+.item_button {
+  --bs-btn-color: none;
+}
+.card_pa{
+    padding: 18px 18px;
+}
