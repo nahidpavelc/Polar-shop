@@ -46,7 +46,7 @@ const Cover = () => {
                       natural lead-in to additional content. This content is a
                       little bit longer.
                     </p>
-                    <div className="mt-4 d-flex justify-content-center">
+                    <div className="mt-4 d-flex ">
                       
                       <button class="btn btn-green">
                         {" "}
